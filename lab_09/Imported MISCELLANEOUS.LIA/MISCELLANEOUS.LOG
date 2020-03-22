@@ -1,0 +1,182 @@
+PCAD Importer Log
+Project : MISCELLANEOUS.LibPkg
+
+Section : D:\”ÌË‚Â\3  ÛÒ\“œ —\libs_for_lab09\MISCELLANEOUS.LIA
+    Section : PCB Library - MISCELLANEOUS.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CAP1 On Line 477
+            Warning - 1 : Skipping Token CAP2 On Line 500
+            Warning - 1 : Skipping Token CAPVAR On Line 524
+            Warning - 1 : Skipping Token CONN1X On Line 553
+            Warning - 1 : Skipping Token CONN2X On Line 568
+            Warning - 1 : Skipping Token DIODE On Line 596
+            Warning - 1 : Skipping Token DIODEBRIDGE On Line 622
+            Warning - 1 : Skipping Token GND On Line 668
+            Warning - 1 : Skipping Token IND On Line 684
+            Warning - 1 : Skipping Token INDVAR On Line 706
+            Warning - 1 : Skipping Token KT117 On Line 735
+            Warning - 1 : Skipping Token LEDIN On Line 774
+            Warning - 1 : Skipping Token LEDOUT On Line 810
+            Warning - 1 : Skipping Token NPN On Line 846
+            Warning - 1 : Skipping Token PNP On Line 884
+            Warning - 1 : Skipping Token RES On Line 922
+            Warning - 1 : Skipping Token RESVAR On Line 947
+            Warning - 1 : Skipping Token SPEAKER On Line 985
+            Warning - 1 : Skipping Token STAB On Line 1012
+            Warning - 1 : Skipping Token TIRISTOR On Line 1039
+            Warning - 1 : Skipping Token TR On Line 1073
+            Warning - 1 : Skipping Token TURN On Line 1118
+            Warning - 1 : Skipping Token VCC On Line 1141
+            Warning - 1 : Skipping Token attachedSymbol On Line 1168
+            Warning - 1 : Skipping Token attachedSymbol On Line 1190
+            Warning - 1 : Skipping Token attachedSymbol On Line 1211
+            Warning - 1 : Skipping Token attachedSymbol On Line 1231
+            Warning - 1 : Skipping Token attachedSymbol On Line 1251
+            Warning - 1 : Skipping Token attachedSymbol On Line 1272
+            Warning - 1 : Skipping Token attachedSymbol On Line 1295
+            Warning - 1 : Skipping Token attachedSymbol On Line 1318
+            Warning - 1 : Skipping Token attachedSymbol On Line 1333
+            Warning - 1 : Skipping Token attachedSymbol On Line 1356
+            Warning - 1 : Skipping Token attachedSymbol On Line 1379
+            Warning - 1 : Skipping Token attachedSymbol On Line 1402
+            Warning - 1 : Skipping Token attachedSymbol On Line 1425
+            Warning - 1 : Skipping Token attachedSymbol On Line 1446
+            Warning - 1 : Skipping Token attachedSymbol On Line 1467
+            Warning - 1 : Skipping Token attachedSymbol On Line 1489
+            Warning - 1 : Skipping Token attachedSymbol On Line 1512
+            Warning - 1 : Skipping Token attachedSymbol On Line 1534
+            Warning - 1 : Skipping Token attachedSymbol On Line 1554
+            Warning - 1 : Skipping Token attachedSymbol On Line 1576
+            Warning - 1 : Skipping Token attachedSymbol On Line 1601
+            Warning - 1 : Skipping Token attachedSymbol On Line 1623
+            Warning - 1 : Skipping Token attachedSymbol On Line 1644
+        EndSection
+
+        Section : Import Messages
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Component GND does not have PCB footprint definition and will be skipped
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Component VCC does not have PCB footprint definition and will be skipped
+        EndSection
+    EndSection
+
+    Section : SCH Library - MISCELLANEOUS.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token padStyleDef On Line 63
+            Warning - 1 : Skipping Token padStyleDef On Line 73
+            Warning - 1 : Skipping Token padStyleDef On Line 83
+            Warning - 1 : Skipping Token padStyleDef On Line 93
+            Warning - 1 : Skipping Token padStyleDef On Line 103
+            Warning - 1 : Skipping Token viaStyleDef On Line 114
+            Warning - 1 : Skipping Token multiLayer On Line 174
+            Warning - 1 : Skipping Token layerContents On Line 178
+            Warning - 1 : Skipping Token layerContents On Line 181
+            Warning - 1 : Skipping Token multiLayer On Line 195
+            Warning - 1 : Skipping Token layerContents On Line 199
+            Warning - 1 : Skipping Token multiLayer On Line 215
+            Warning - 1 : Skipping Token layerContents On Line 219
+            Warning - 1 : Skipping Token multiLayer On Line 232
+            Warning - 1 : Skipping Token layerContents On Line 237
+            Warning - 1 : Skipping Token multiLayer On Line 253
+            Warning - 1 : Skipping Token layerContents On Line 257
+            Warning - 1 : Skipping Token multiLayer On Line 272
+            Warning - 1 : Skipping Token layerContents On Line 277
+            Warning - 1 : Skipping Token multiLayer On Line 292
+            Warning - 1 : Skipping Token layerContents On Line 296
+            Warning - 1 : Skipping Token multiLayer On Line 312
+            Warning - 1 : Skipping Token layerContents On Line 318
+            Warning - 1 : Skipping Token multiLayer On Line 334
+            Warning - 1 : Skipping Token layerContents On Line 340
+            Warning - 1 : Skipping Token multiLayer On Line 353
+            Warning - 1 : Skipping Token layerContents On Line 358
+            Warning - 1 : Skipping Token layerContents On Line 362
+            Warning - 1 : Skipping Token multiLayer On Line 376
+            Warning - 1 : Skipping Token layerContents On Line 381
+            Warning - 1 : Skipping Token multiLayer On Line 399
+            Warning - 1 : Skipping Token layerContents On Line 403
+            Warning - 1 : Skipping Token multiLayer On Line 419
+            Warning - 1 : Skipping Token layerContents On Line 424
+            Warning - 1 : Skipping Token multiLayer On Line 440
+            Warning - 1 : Skipping Token layerContents On Line 447
+            Warning - 1 : Skipping Token multiLayer On Line 463
+            Warning - 1 : Skipping Token layerContents On Line 468
+            Warning - 1 : Skipping Token defaultPinDes On Line 485
+            Warning - 1 : Skipping Token defaultPinDes On Line 493
+            Warning - 1 : Skipping Token defaultPinDes On Line 508
+            Warning - 1 : Skipping Token defaultPinDes On Line 516
+            Warning - 1 : Skipping Token defaultPinDes On Line 532
+            Warning - 1 : Skipping Token defaultPinDes On Line 540
+            Warning - 1 : Skipping Token defaultPinDes On Line 561
+            Warning - 1 : Skipping Token defaultPinDes On Line 576
+            Warning - 1 : Skipping Token defaultPinDes On Line 584
+            Warning - 1 : Skipping Token defaultPinDes On Line 604
+            Warning - 1 : Skipping Token defaultPinDes On Line 612
+            Warning - 1 : Skipping Token defaultPinDes On Line 630
+            Warning - 1 : Skipping Token defaultPinDes On Line 638
+            Warning - 1 : Skipping Token defaultPinDes On Line 646
+            Warning - 1 : Skipping Token defaultPinDes On Line 654
+            Warning - 1 : Skipping Token defaultPinDes On Line 676
+            Warning - 1 : Skipping Token defaultPinDes On Line 691
+            Warning - 1 : Skipping Token defaultPinDes On Line 698
+            Warning - 1 : Skipping Token defaultPinDes On Line 713
+            Warning - 1 : Skipping Token defaultPinDes On Line 720
+            Warning - 1 : Skipping Token defaultPinDes On Line 727
+            Warning - 1 : Skipping Token defaultPinDes On Line 743
+            Warning - 1 : Skipping Token defaultPinDes On Line 751
+            Warning - 1 : Skipping Token defaultPinDes On Line 759
+            Warning - 1 : Skipping Token defaultPinDes On Line 782
+            Warning - 1 : Skipping Token defaultPinDes On Line 790
+            Warning - 1 : Skipping Token defaultPinDes On Line 818
+            Warning - 1 : Skipping Token defaultPinDes On Line 826
+            Warning - 1 : Skipping Token defaultPinDes On Line 854
+            Warning - 1 : Skipping Token defaultPinDes On Line 862
+            Warning - 1 : Skipping Token defaultPinDes On Line 870
+            Warning - 1 : Skipping Token defaultPinDes On Line 892
+            Warning - 1 : Skipping Token defaultPinDes On Line 900
+            Warning - 1 : Skipping Token defaultPinDes On Line 908
+            Warning - 1 : Skipping Token defaultPinDes On Line 930
+            Warning - 1 : Skipping Token defaultPinDes On Line 938
+            Warning - 1 : Skipping Token defaultPinDes On Line 955
+            Warning - 1 : Skipping Token defaultPinDes On Line 963
+            Warning - 1 : Skipping Token defaultPinDes On Line 971
+            Warning - 1 : Skipping Token defaultPinDes On Line 993
+            Warning - 1 : Skipping Token defaultPinDes On Line 1001
+            Warning - 1 : Skipping Token defaultPinDes On Line 1020
+            Warning - 1 : Skipping Token defaultPinDes On Line 1028
+            Warning - 1 : Skipping Token defaultPinDes On Line 1047
+            Warning - 1 : Skipping Token defaultPinDes On Line 1055
+            Warning - 1 : Skipping Token defaultPinDes On Line 1063
+            Warning - 1 : Skipping Token defaultPinDes On Line 1080
+            Warning - 1 : Skipping Token defaultPinDes On Line 1087
+            Warning - 1 : Skipping Token defaultPinDes On Line 1094
+            Warning - 1 : Skipping Token defaultPinDes On Line 1101
+            Warning - 1 : Skipping Token defaultPinDes On Line 1127
+            Warning - 1 : Skipping Token defaultPinDes On Line 1136
+            Warning - 1 : Skipping Token defaultPinDes On Line 1149
+        EndSection
+
+        Section : Generating SCH Library - MISCELLANEOUS.SchLib
+        EndSection
+    EndSection
+EndSection

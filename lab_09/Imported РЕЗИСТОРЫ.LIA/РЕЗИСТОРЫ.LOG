@@ -1,0 +1,66 @@
+PCAD Importer Log
+Project : –≈«»—“Œ–€.LibPkg
+
+Section : D:\”ÌË‚Â\3  ÛÒ\“œ —\libs_for_lab09\–≈«»—“Œ–€.LIA
+    Section : PCB Library - –≈«»—“Œ–€.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 144
+            Warning - 1 : Skipping Token defaultPinDes On Line 145
+            Warning - 1 : Skipping Token defaultPinDes On Line 167
+            Warning - 1 : Skipping Token defaultPinDes On Line 168
+            Warning - 1 : Skipping Token defaultPinDes On Line 190
+            Warning - 1 : Skipping Token defaultPinDes On Line 191
+            Warning - 1 : Skipping Token defaultPinDes On Line 213
+            Warning - 1 : Skipping Token defaultPinDes On Line 214
+            Warning - 1 : Skipping Token defaultPinDes On Line 215
+            Warning - 1 : Skipping Token R - œ≈–≈Ã≈ÕÕ€… On Line 230
+            Warning - 1 : Skipping Token R - œŒƒ—“–Œ≈◊Õ€… On Line 267
+            Warning - 1 : Skipping Token R1000 On Line 302
+            Warning - 1 : Skipping Token R125 On Line 329
+            Warning - 1 : Skipping Token R250 On Line 357
+            Warning - 1 : Skipping Token attachedSymbol On Line 396
+            Warning - 1 : Skipping Token attachedSymbol On Line 417
+            Warning - 1 : Skipping Token attachedSymbol On Line 438
+            Warning - 1 : Skipping Token attachedSymbol On Line 460
+            Warning - 1 : Skipping Token attachedSymbol On Line 483
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - –≈«»—“Œ–€.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 143
+            Warning - 1 : Skipping Token layerContents On Line 147
+            Warning - 1 : Skipping Token layerContents On Line 150
+            Warning - 1 : Skipping Token multiLayer On Line 166
+            Warning - 1 : Skipping Token layerContents On Line 170
+            Warning - 1 : Skipping Token layerContents On Line 173
+            Warning - 1 : Skipping Token multiLayer On Line 189
+            Warning - 1 : Skipping Token layerContents On Line 193
+            Warning - 1 : Skipping Token layerContents On Line 196
+            Warning - 1 : Skipping Token multiLayer On Line 212
+            Warning - 1 : Skipping Token layerContents On Line 217
+            Warning - 1 : Skipping Token layerContents On Line 220
+            Warning - 1 : Skipping Token defaultPinDes On Line 238
+            Warning - 1 : Skipping Token defaultPinDes On Line 246
+            Warning - 1 : Skipping Token defaultPinDes On Line 254
+            Warning - 1 : Skipping Token defaultPinDes On Line 275
+            Warning - 1 : Skipping Token defaultPinDes On Line 283
+            Warning - 1 : Skipping Token defaultPinDes On Line 291
+            Warning - 1 : Skipping Token defaultPinDes On Line 310
+            Warning - 1 : Skipping Token defaultPinDes On Line 318
+            Warning - 1 : Skipping Token defaultPinDes On Line 337
+            Warning - 1 : Skipping Token defaultPinDes On Line 345
+            Warning - 1 : Skipping Token defaultPinDes On Line 365
+            Warning - 1 : Skipping Token defaultPinDes On Line 373
+        EndSection
+
+        Section : Generating SCH Library - –≈«»—“Œ–€.SchLib
+        EndSection
+    EndSection
+EndSection

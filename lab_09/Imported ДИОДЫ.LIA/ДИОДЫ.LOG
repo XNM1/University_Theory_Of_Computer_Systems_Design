@@ -1,0 +1,73 @@
+PCAD Importer Log
+Project : ÄÈÎÄÛ.LibPkg
+
+Section : D:\Óíèâåğ\3 Êóğñ\ÒÏÊÑ\libs_for_lab09\ÄÈÎÄÛ.LIA
+    Section : PCB Library - ÄÈÎÄÛ.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ÂÀĞÈÊÀÏ On Line 359
+            Warning - 1 : Skipping Token ÄÈÎÄ On Line 387
+            Warning - 1 : Skipping Token ÄÈÎÄÍÛÉ ÌÎÑÒ On Line 414
+            Warning - 1 : Skipping Token ÑÂÅÒÎÄÈÎÄ On Line 461
+            Warning - 1 : Skipping Token ÑÒÀÁÈËÈÒĞÎÍ ÎÄÍÎÑÒÎĞÎÍÍÈÉ On Line 495
+            Warning - 1 : Skipping Token attachedSymbol On Line 535
+            Warning - 1 : Skipping Token attachedSymbol On Line 556
+            Warning - 1 : Skipping Token attachedSymbol On Line 577
+            Warning - 1 : Skipping Token attachedSymbol On Line 598
+            Warning - 1 : Skipping Token attachedSymbol On Line 619
+            Warning - 1 : Skipping Token attachedSymbol On Line 640
+            Warning - 1 : Skipping Token attachedSymbol On Line 661
+            Warning - 1 : Skipping Token attachedSymbol On Line 682
+            Warning - 1 : Skipping Token attachedSymbol On Line 707
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ÄÈÎÄÛ.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token padStyleDef On Line 63
+            Warning - 1 : Skipping Token padStyleDef On Line 73
+            Warning - 1 : Skipping Token viaStyleDef On Line 83
+            Warning - 1 : Skipping Token multiLayer On Line 193
+            Warning - 1 : Skipping Token layerContents On Line 197
+            Warning - 1 : Skipping Token layerContents On Line 200
+            Warning - 1 : Skipping Token multiLayer On Line 216
+            Warning - 1 : Skipping Token layerContents On Line 220
+            Warning - 1 : Skipping Token layerContents On Line 223
+            Warning - 1 : Skipping Token multiLayer On Line 239
+            Warning - 1 : Skipping Token layerContents On Line 243
+            Warning - 1 : Skipping Token layerContents On Line 246
+            Warning - 1 : Skipping Token multiLayer On Line 262
+            Warning - 1 : Skipping Token layerContents On Line 266
+            Warning - 1 : Skipping Token multiLayer On Line 280
+            Warning - 1 : Skipping Token layerContents On Line 284
+            Warning - 1 : Skipping Token multiLayer On Line 301
+            Warning - 1 : Skipping Token layerContents On Line 305
+            Warning - 1 : Skipping Token multiLayer On Line 319
+            Warning - 1 : Skipping Token layerContents On Line 323
+            Warning - 1 : Skipping Token multiLayer On Line 340
+            Warning - 1 : Skipping Token layerContents On Line 348
+            Warning - 1 : Skipping Token defaultPinDes On Line 367
+            Warning - 1 : Skipping Token defaultPinDes On Line 375
+            Warning - 1 : Skipping Token defaultPinDes On Line 395
+            Warning - 1 : Skipping Token defaultPinDes On Line 403
+            Warning - 1 : Skipping Token defaultPinDes On Line 422
+            Warning - 1 : Skipping Token defaultPinDes On Line 430
+            Warning - 1 : Skipping Token defaultPinDes On Line 438
+            Warning - 1 : Skipping Token defaultPinDes On Line 446
+            Warning - 1 : Skipping Token defaultPinDes On Line 469
+            Warning - 1 : Skipping Token defaultPinDes On Line 477
+            Warning - 1 : Skipping Token defaultPinDes On Line 503
+            Warning - 1 : Skipping Token defaultPinDes On Line 511
+        EndSection
+
+        Section : Generating SCH Library - ÄÈÎÄÛ.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,301 @@
+PCAD Importer Log
+Project : “–¿Õ«»—“Œ–€-MM.LibPkg
+
+Section : D:\”ÌË‚Â\3  ÛÒ\“œ —\libs_for_lab09\“–¿Õ«»—“Œ–€-MM.LIA
+    Section : PCB Library - “–¿Õ«»—“Œ–€-MM.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token KP809 On Line 2259
+            Warning - 1 : Skipping Token KT117 On Line 2305
+            Warning - 1 : Skipping Token NPN On Line 2346
+            Warning - 1 : Skipping Token PNP On Line 2385
+            Warning - 1 : Skipping Token VTPN On Line 2424
+            Warning - 1 : Skipping Token VTPP On Line 2464
+            Warning - 1 : Skipping Token  œ305 On Line 2505
+            Warning - 1 : Skipping Token Ã“’90 On Line 2550
+            Warning - 1 : Skipping Token attachedSymbol On Line 2603
+            Warning - 1 : Skipping Token attachedSymbol On Line 2626
+            Warning - 1 : Skipping Token attachedSymbol On Line 2649
+            Warning - 1 : Skipping Token attachedSymbol On Line 2672
+            Warning - 1 : Skipping Token attachedSymbol On Line 2695
+            Warning - 1 : Skipping Token attachedSymbol On Line 2718
+            Warning - 1 : Skipping Token attachedSymbol On Line 2741
+            Warning - 1 : Skipping Token attachedSymbol On Line 2764
+            Warning - 1 : Skipping Token attachedSymbol On Line 2787
+            Warning - 1 : Skipping Token attachedSymbol On Line 2810
+            Warning - 1 : Skipping Token attachedSymbol On Line 2833
+            Warning - 1 : Skipping Token attachedSymbol On Line 2856
+            Warning - 1 : Skipping Token attachedSymbol On Line 2879
+            Warning - 1 : Skipping Token attachedSymbol On Line 2902
+            Warning - 1 : Skipping Token attachedSymbol On Line 2925
+            Warning - 1 : Skipping Token attachedSymbol On Line 2948
+            Warning - 1 : Skipping Token attachedSymbol On Line 2971
+            Warning - 1 : Skipping Token attachedSymbol On Line 2994
+            Warning - 1 : Skipping Token attachedSymbol On Line 3017
+            Warning - 1 : Skipping Token attachedSymbol On Line 3040
+            Warning - 1 : Skipping Token attachedSymbol On Line 3063
+            Warning - 1 : Skipping Token attachedSymbol On Line 3086
+            Warning - 1 : Skipping Token attachedSymbol On Line 3109
+            Warning - 1 : Skipping Token attachedSymbol On Line 3132
+            Warning - 1 : Skipping Token attachedSymbol On Line 3155
+            Warning - 1 : Skipping Token attachedSymbol On Line 3178
+            Warning - 1 : Skipping Token attachedSymbol On Line 3201
+            Warning - 1 : Skipping Token attachedSymbol On Line 3224
+            Warning - 1 : Skipping Token attachedSymbol On Line 3247
+            Warning - 1 : Skipping Token attachedSymbol On Line 3270
+            Warning - 1 : Skipping Token attachedSymbol On Line 3294
+            Warning - 1 : Skipping Token attachedSymbol On Line 3318
+            Warning - 1 : Skipping Token attachedSymbol On Line 3341
+            Warning - 1 : Skipping Token attachedSymbol On Line 3364
+            Warning - 1 : Skipping Token attachedSymbol On Line 3387
+            Warning - 1 : Skipping Token attachedSymbol On Line 3410
+            Warning - 1 : Skipping Token attachedSymbol On Line 3433
+            Warning - 1 : Skipping Token attachedSymbol On Line 3456
+            Warning - 1 : Skipping Token attachedSymbol On Line 3479
+            Warning - 1 : Skipping Token attachedSymbol On Line 3502
+            Warning - 1 : Skipping Token attachedSymbol On Line 3525
+            Warning - 1 : Skipping Token attachedSymbol On Line 3548
+            Warning - 1 : Skipping Token attachedSymbol On Line 3572
+            Warning - 1 : Skipping Token attachedSymbol On Line 3596
+            Warning - 1 : Skipping Token attachedSymbol On Line 3619
+            Warning - 1 : Skipping Token attachedSymbol On Line 3643
+            Warning - 1 : Skipping Token attachedSymbol On Line 3667
+            Warning - 1 : Skipping Token attachedSymbol On Line 3690
+            Warning - 1 : Skipping Token attachedSymbol On Line 3714
+            Warning - 1 : Skipping Token attachedSymbol On Line 3738
+            Warning - 1 : Skipping Token attachedSymbol On Line 3761
+            Warning - 1 : Skipping Token attachedSymbol On Line 3785
+            Warning - 1 : Skipping Token attachedSymbol On Line 3809
+            Warning - 1 : Skipping Token attachedSymbol On Line 3833
+            Warning - 1 : Skipping Token attachedSymbol On Line 3857
+            Warning - 1 : Skipping Token attachedSymbol On Line 3881
+            Warning - 1 : Skipping Token attachedSymbol On Line 3905
+            Warning - 1 : Skipping Token attachedSymbol On Line 3929
+            Warning - 1 : Skipping Token attachedSymbol On Line 3953
+            Warning - 1 : Skipping Token attachedSymbol On Line 3977
+            Warning - 1 : Skipping Token attachedSymbol On Line 4001
+            Warning - 1 : Skipping Token attachedSymbol On Line 4024
+            Warning - 1 : Skipping Token attachedSymbol On Line 4047
+            Warning - 1 : Skipping Token attachedSymbol On Line 4070
+            Warning - 1 : Skipping Token attachedSymbol On Line 4093
+            Warning - 1 : Skipping Token attachedSymbol On Line 4116
+            Warning - 1 : Skipping Token attachedSymbol On Line 4139
+            Warning - 1 : Skipping Token attachedSymbol On Line 4162
+            Warning - 1 : Skipping Token attachedSymbol On Line 4185
+            Warning - 1 : Skipping Token attachedSymbol On Line 4208
+            Warning - 1 : Skipping Token attachedSymbol On Line 4231
+            Warning - 1 : Skipping Token attachedSymbol On Line 4254
+            Warning - 1 : Skipping Token attachedSymbol On Line 4277
+            Warning - 1 : Skipping Token attachedSymbol On Line 4301
+            Warning - 1 : Skipping Token attachedSymbol On Line 4326
+            Warning - 1 : Skipping Token attachedSymbol On Line 4350
+            Warning - 1 : Skipping Token attachedSymbol On Line 4374
+            Warning - 1 : Skipping Token attachedSymbol On Line 4398
+            Warning - 1 : Skipping Token attachedSymbol On Line 4420
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [KT28-1][Primary] associated with PCAD Component [IRF530N] has been renamed to PCB FootPrint [KT28-1_IRF530N(Primary)].
+            Warning : Testpoint at (39.921mil,42.362mil) ignored as no pad or via was found.
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning - 0 : PCAD Pattern Graphics [KT27R1][Primary] associated with PCAD Component [KT817R-1] has been renamed to PCB FootPrint [KT27R1_KT817R-1(Primary)].
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning - 0 : PCAD Pattern Graphics [KT28-1][Primary] associated with PCAD Component [KT837] has been renamed to PCB FootPrint [KT28-1_KT837(Primary)].
+            Warning : Component Ã“’90 does not have PCB footprint definition and will be skipped
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+        EndSection
+    EndSection
+
+    Section : SCH Library - “–¿Õ«»—“Œ–€-MM.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token padStyleDef On Line 63
+            Warning - 1 : Skipping Token padStyleDef On Line 73
+            Warning - 1 : Skipping Token padStyleDef On Line 83
+            Warning - 1 : Skipping Token padStyleDef On Line 93
+            Warning - 1 : Skipping Token padStyleDef On Line 103
+            Warning - 1 : Skipping Token padStyleDef On Line 113
+            Warning - 1 : Skipping Token padStyleDef On Line 123
+            Warning - 1 : Skipping Token padStyleDef On Line 134
+            Warning - 1 : Skipping Token padStyleDef On Line 146
+            Warning - 1 : Skipping Token padStyleDef On Line 158
+            Warning - 1 : Skipping Token padStyleDef On Line 170
+            Warning - 1 : Skipping Token padStyleDef On Line 182
+            Warning - 1 : Skipping Token viaStyleDef On Line 194
+            Warning - 1 : Skipping Token multiLayer On Line 392
+            Warning - 1 : Skipping Token layerContents On Line 397
+            Warning - 1 : Skipping Token multiLayer On Line 416
+            Warning - 1 : Skipping Token layerContents On Line 422
+            Warning - 1 : Skipping Token multiLayer On Line 440
+            Warning - 1 : Skipping Token layerContents On Line 445
+            Warning - 1 : Skipping Token multiLayer On Line 463
+            Warning - 1 : Skipping Token layerContents On Line 468
+            Warning - 1 : Skipping Token multiLayer On Line 487
+            Warning - 1 : Skipping Token layerContents On Line 492
+            Warning - 1 : Skipping Token multiLayer On Line 511
+            Warning - 1 : Skipping Token layerContents On Line 516
+            Warning - 1 : Skipping Token multiLayer On Line 535
+            Warning - 1 : Skipping Token layerContents On Line 540
+            Warning - 1 : Skipping Token multiLayer On Line 559
+            Warning - 1 : Skipping Token layerContents On Line 564
+            Warning - 1 : Skipping Token multiLayer On Line 581
+            Warning - 1 : Skipping Token layerContents On Line 586
+            Warning - 1 : Skipping Token multiLayer On Line 606
+            Warning - 1 : Skipping Token layerContents On Line 611
+            Warning - 1 : Skipping Token multiLayer On Line 631
+            Warning - 1 : Skipping Token layerContents On Line 637
+            Warning - 1 : Skipping Token multiLayer On Line 657
+            Warning - 1 : Skipping Token layerContents On Line 662
+            Warning - 1 : Skipping Token multiLayer On Line 681
+            Warning - 1 : Skipping Token layerContents On Line 686
+            Warning - 1 : Skipping Token multiLayer On Line 705
+            Warning - 1 : Skipping Token layerContents On Line 710
+            Warning - 1 : Skipping Token multiLayer On Line 730
+            Warning - 1 : Skipping Token layerContents On Line 735
+            Warning - 1 : Skipping Token multiLayer On Line 755
+            Warning - 1 : Skipping Token layerContents On Line 760
+            Warning - 1 : Skipping Token multiLayer On Line 779
+            Warning - 1 : Skipping Token layerContents On Line 784
+            Warning - 1 : Skipping Token multiLayer On Line 804
+            Warning - 1 : Skipping Token layerContents On Line 809
+            Warning - 1 : Skipping Token multiLayer On Line 829
+            Warning - 1 : Skipping Token layerContents On Line 834
+            Warning - 1 : Skipping Token multiLayer On Line 866
+            Warning - 1 : Skipping Token layerContents On Line 871
+            Warning - 1 : Skipping Token multiLayer On Line 903
+            Warning - 1 : Skipping Token layerContents On Line 908
+            Warning - 1 : Skipping Token multiLayer On Line 926
+            Warning - 1 : Skipping Token layerContents On Line 931
+            Warning - 1 : Skipping Token multiLayer On Line 949
+            Warning - 1 : Skipping Token layerContents On Line 954
+            Warning - 1 : Skipping Token multiLayer On Line 972
+            Warning - 1 : Skipping Token layerContents On Line 978
+            Warning - 1 : Skipping Token multiLayer On Line 1022
+            Warning - 1 : Skipping Token layerContents On Line 1029
+            Warning - 1 : Skipping Token multiLayer On Line 1053
+            Warning - 1 : Skipping Token layerContents On Line 1059
+            Warning - 1 : Skipping Token multiLayer On Line 1093
+            Warning - 1 : Skipping Token layerContents On Line 1099
+            Warning - 1 : Skipping Token multiLayer On Line 1146
+            Warning - 1 : Skipping Token layerContents On Line 1152
+            Warning - 1 : Skipping Token multiLayer On Line 1196
+            Warning - 1 : Skipping Token layerContents On Line 1203
+            Warning - 1 : Skipping Token multiLayer On Line 1227
+            Warning - 1 : Skipping Token layerContents On Line 1232
+            Warning - 1 : Skipping Token multiLayer On Line 1249
+            Warning - 1 : Skipping Token layerContents On Line 1254
+            Warning - 1 : Skipping Token multiLayer On Line 1271
+            Warning - 1 : Skipping Token layerContents On Line 1276
+            Warning - 1 : Skipping Token multiLayer On Line 1293
+            Warning - 1 : Skipping Token layerContents On Line 1298
+            Warning - 1 : Skipping Token multiLayer On Line 1317
+            Warning - 1 : Skipping Token layerContents On Line 1322
+            Warning - 1 : Skipping Token multiLayer On Line 1341
+            Warning - 1 : Skipping Token layerContents On Line 1348
+            Warning - 1 : Skipping Token layerContents On Line 1357
+            Warning - 1 : Skipping Token multiLayer On Line 1368
+            Warning - 1 : Skipping Token layerContents On Line 1373
+            Warning - 1 : Skipping Token multiLayer On Line 1390
+            Warning - 1 : Skipping Token layerContents On Line 1395
+            Warning - 1 : Skipping Token multiLayer On Line 1415
+            Warning - 1 : Skipping Token layerContents On Line 1420
+            Warning - 1 : Skipping Token multiLayer On Line 1439
+            Warning - 1 : Skipping Token layerContents On Line 1445
+            Warning - 1 : Skipping Token multiLayer On Line 1485
+            Warning - 1 : Skipping Token layerContents On Line 1490
+            Warning - 1 : Skipping Token multiLayer On Line 1510
+            Warning - 1 : Skipping Token layerContents On Line 1516
+            Warning - 1 : Skipping Token multiLayer On Line 1557
+            Warning - 1 : Skipping Token layerContents On Line 1563
+            Warning - 1 : Skipping Token multiLayer On Line 1590
+            Warning - 1 : Skipping Token layerContents On Line 1595
+            Warning - 1 : Skipping Token multiLayer On Line 1615
+            Warning - 1 : Skipping Token layerContents On Line 1621
+            Warning - 1 : Skipping Token layerContents On Line 1656
+            Warning - 1 : Skipping Token multiLayer On Line 1667
+            Warning - 1 : Skipping Token layerContents On Line 1672
+            Warning - 1 : Skipping Token layerContents On Line 1684
+            Warning - 1 : Skipping Token multiLayer On Line 1695
+            Warning - 1 : Skipping Token layerContents On Line 1701
+            Warning - 1 : Skipping Token layerContents On Line 1745
+            Warning - 1 : Skipping Token multiLayer On Line 1756
+            Warning - 1 : Skipping Token layerContents On Line 1761
+            Warning - 1 : Skipping Token layerContents On Line 1773
+            Warning - 1 : Skipping Token multiLayer On Line 1784
+            Warning - 1 : Skipping Token layerContents On Line 1790
+            Warning - 1 : Skipping Token layerContents On Line 1834
+            Warning - 1 : Skipping Token multiLayer On Line 1845
+            Warning - 1 : Skipping Token layerContents On Line 1850
+            Warning - 1 : Skipping Token layerContents On Line 1864
+            Warning - 1 : Skipping Token multiLayer On Line 1875
+            Warning - 1 : Skipping Token layerContents On Line 1880
+            Warning - 1 : Skipping Token layerContents On Line 1894
+            Warning - 1 : Skipping Token multiLayer On Line 1905
+            Warning - 1 : Skipping Token layerContents On Line 1910
+            Warning - 1 : Skipping Token layerContents On Line 1924
+            Warning - 1 : Skipping Token multiLayer On Line 1935
+            Warning - 1 : Skipping Token layerContents On Line 1941
+            Warning - 1 : Skipping Token layerContents On Line 1974
+            Warning - 1 : Skipping Token multiLayer On Line 1985
+            Warning - 1 : Skipping Token layerContents On Line 1991
+            Warning - 1 : Skipping Token layerContents On Line 2002
+            Warning - 1 : Skipping Token multiLayer On Line 2013
+            Warning - 1 : Skipping Token layerContents On Line 2018
+            Warning - 1 : Skipping Token layerContents On Line 2029
+            Warning - 1 : Skipping Token multiLayer On Line 2040
+            Warning - 1 : Skipping Token layerContents On Line 2046
+            Warning - 1 : Skipping Token layerContents On Line 2067
+            Warning - 1 : Skipping Token multiLayer On Line 2078
+            Warning - 1 : Skipping Token layerContents On Line 2084
+            Warning - 1 : Skipping Token layerContents On Line 2105
+            Warning - 1 : Skipping Token multiLayer On Line 2116
+            Warning - 1 : Skipping Token layerContents On Line 2121
+            Warning - 1 : Skipping Token layerContents On Line 2132
+            Warning - 1 : Skipping Token multiLayer On Line 2143
+            Warning - 1 : Skipping Token layerContents On Line 2149
+            Warning - 1 : Skipping Token layerContents On Line 2170
+            Warning - 1 : Skipping Token multiLayer On Line 2181
+            Warning - 1 : Skipping Token layerContents On Line 2186
+            Warning - 1 : Skipping Token layerContents On Line 2198
+            Warning - 1 : Skipping Token multiLayer On Line 2209
+            Warning - 1 : Skipping Token layerContents On Line 2214
+            Warning - 1 : Skipping Token layerContents On Line 2226
+            Warning - 1 : Skipping Token multiLayer On Line 2237
+            Warning - 1 : Skipping Token layerContents On Line 2242
+            Warning - 1 : Skipping Token layerContents On Line 2253
+        EndSection
+
+        Section : Generating SCH Library - “–¿Õ«»—“Œ–€-MM.SchLib
+            Warning - 0 : PCAD Pattern Graphics [KT28-1][Primary] associated with PCAD Component [IRF530N] has been renamed to PCB FootPrint [KT28-1_IRF530N(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KT27R1][Primary] associated with PCAD Component [KT817R-1] has been renamed to PCB FootPrint [KT27R1_KT817R-1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KT28-1][Primary] associated with PCAD Component [KT837] has been renamed to PCB FootPrint [KT28-1_KT837(Primary)].
+        EndSection
+    EndSection
+EndSection
