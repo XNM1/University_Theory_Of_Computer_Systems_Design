@@ -1,0 +1,55 @@
+PARTS LIST
+
+ZP-3              го-3            B1
+K50-29 (1;2,2;4,7;10;22 MK)й50-29 (17у6)   C1
+K71-6 (5-30 лй)   K71-6 (10X4)    C2
+K50-29 (1;2,2;4,7;10;22 MK)й50-29 (17у6)   C3
+K71-6 (5-30 лй)   K71-6 (10X4)    C4
+K71-6 (5-30 лй)   K71-6 (10X4)    C5
+CONN2X            CONN2X          CONN3
+KP1436AP1         йп1436юо1       DA2
+юк307             юк307           HL1
+MMT-1             MMT-1           R1
+яо3-38б           яо3-38б         R2
+лкр(0.25)         лкр(0.25)       R3
+лкр(0.25)         лкр(0.25)       R4
+лкр(0.25)         лкр(0.25)       R5
+лкр(0.25)         лкр(0.25)       R6
+лкр(0.25)         лкр(0.25)       R7
+KT3102A           KT3102A         VT1
+KT3102A           KT3102A         VT2
+KT3102A           KT3102A         VT3
+EOS
+NET LIST
+
+NODENAME VT1,VT2,KT3102A  $
+    DA2        2  R3         2  VT1        3  VT2        3
+NODENAME VCC              $
+    B1         2  C1         1  C2         1  C3         1  C5         1  CONN3      2  DA2        5  R2         2  R7         2  VT2        1
+NODENAME NET00013         $
+    DA2        6  R6         1
+NODENAME NET00012         $
+    DA2        4  R4         2
+NODENAME NET00011         $
+    B1         1  C4         1
+NODENAME NET00010         $
+    R1         1  R2         1
+NODENAME NET00009         $
+    R5         2  VT3        2
+NODENAME NET00008         $
+    HL1        2  VT3        3
+NODENAME NET00006         $
+    C5         2  DA2        7  R6         2
+NODENAME NET00005         $
+    C4         2  DA2        8
+NODENAME NET00004         $
+    C1         2  C2         2  CONN3      1  DA2        1  HL1        1  R1         2  R3         1
+NODENAME NetR2-3          $
+    R2         3  VT1        2
+NODENAME NetR7-1          $
+    R7         1  VT3        1
+NODENAME NetVT1-1         $
+    VT1        1  VT2        2
+NODENAME 16B              $
+    C3         2  DA2        3  R4         1  R5         1
+EOS
